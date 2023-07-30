@@ -37,7 +37,7 @@ const exp = [
     cardImage: "sudharsan_assets/sudharsan_images/experience-page/brock.png",
     place: "Bengaluru, Karnataka, India",
     time: "(Jun, 2015 - May, 2017)",
-    desp: "Sales Manager at Bharathi Mines and Rocks",
+    desp: "Sales Manager at Bharathi Mines and Rocks.",
   },
   {
     title: "Linux Engineer",
