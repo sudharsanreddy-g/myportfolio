@@ -8,7 +8,7 @@ const exp = [
     title: "DevOps Engineer",
     cardImage: "sudharsan_assets/sudharsan_images/experience-page/mcbitss.jpg",
     place: "McBitss - Remote",
-    time: "(Apr, 2021 - June, 2023)",
+    time: "(Apr, 2021 - July, 2023)",
     desp: "<li>Installing, Configuring, and Maintaining off-premises (cloud-based) infrastructure.</li><li>Design, build and maintain CI/CD pipelines.</li> <li>Automating and orchestrating workloads on AWS.</li> <li>Install, configure and manage Kubernetes clusters supporting the CI/CD deployment pipelines.</li>",
   },
   {
@@ -22,8 +22,22 @@ const exp = [
     title: "Governament Job Preparation",
     cardImage: "sudharsan_assets/sudharsan_images/experience-page/ta.jpg",
     place: "India",
-    time: "(Apr, 2015 - Apr, 2019)",
+    time: "(Jan, 2018 - Apr, 2019)",
     desp: "Time spent for Territorial Army exam and part time work done as system engineer at Bharathi Mines and Wipro.",
+  },
+    {
+    title: "System Engineer",
+    cardImage: "sudharsan_assets/sudharsan_images/experience-page/wipro.png",
+    place: "Hyderabad, Telangana, India",
+    time: "(Jun, 2017 - Dec, 2017)",
+    desp: "System Engineer at Wipro.",
+  },
+    {
+    title: "Sales Manager",
+    cardImage: "sudharsan_assets/sudharsan_images/experience-page/brock.png",
+    place: "Bengaluru, Karnataka, India",
+    time: "(Jun, 2015 - May, 2017)",
+    desp: "Sales Manager at Bharathi Mines and Rocks",
   },
   {
     title: "Linux Engineer",
