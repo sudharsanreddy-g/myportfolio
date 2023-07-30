@@ -15,7 +15,7 @@ const exp = [
     title: "Platform Support Consultant",
     cardImage: "sudharsan_assets/sudharsan_images/experience-page/mcbitss.jpg",
     place: "McBitss - Hyderabad, India",
-    time: "(May, 2019 - Mar, 20201)",
+    time: "(May, 2019 - Mar, 2021)",
     desp: "<li>create an internal developer platform.</li><li>Build and Maintain the on-premises and off-premises infrastructure (hybrid).</li><li>IIS server configuration and web application deployment.</li><li>Monitoring on-premises infrastructure.</li>",
   },
   {
