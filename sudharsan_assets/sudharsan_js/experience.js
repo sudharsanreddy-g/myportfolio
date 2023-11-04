@@ -8,7 +8,7 @@ const exp = [
     title: "DevOps Engineer",
     cardImage: "sudharsan_assets/sudharsan_images/experience-page/mcbitss.jpg",
     place: "McBitss - Remote",
-    time: "(Apr, 2021 - July, 2023)",
+    time: "(Apr, 2021 - Present)",
     desp: "<li>Installing, Configuring, and Maintaining off-premises (cloud-based) infrastructure.</li><li>Design, build and maintain CI/CD pipelines.</li> <li>Automating and orchestrating workloads on AWS.</li> <li>Install, configure and manage Kubernetes clusters supporting the CI/CD deployment pipelines.</li>",
   },
   {
